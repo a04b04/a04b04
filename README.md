@@ -2,13 +2,13 @@
 
 ### About Me
 
-- 🎓 I'm a second-year Software Engineering student.
+- 🎓 I'm a final-year Software Engineering student.
 - 🏋️‍♂️ I regularly attend the gym and enjoy fast-paced, short jogs.
 
 ### Currently Working On
 
 - 🕹️ **Simple Frustration** – A Java-based board game implementing the Strategy Pattern and turn-based logic.
-- 🌐 **Portfolio Website** – Building this very README and personal site to showcase projects and skills.
+- 🌐 **CheatMeals** – A web application to help me track calorie intake using technologies such as Next.js (React + TypeScript), Tailwind CSS, Prisma, PostgresSQL and Docker.
 
 ### Connect with me
 
